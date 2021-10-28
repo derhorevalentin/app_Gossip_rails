@@ -1,4 +1,4 @@
-# App AirbnbDogs
+# App Gossip
 
 ## Premier point :
 
